@@ -1,0 +1,75 @@
+
+img{
+    max-width: 100%;
+}
+section{
+    margin-bottom: 70px;
+}
+header{
+    background-color: #F0FFF0;
+}
+.logo{
+    width: 160px;
+    height: auto;
+}
+.sing-in-button{
+    border: none;
+    background-color: #21B573;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.hero-section{
+    background-color: #F0FFF0;
+}
+.common-button{
+    border: none;
+    background-color: #21B573;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 15px;
+    font-size: 17px;
+}
+.h-title{
+    font-size: 40px;
+    font-weight: 500;
+}
+.h-title strong{
+    color: #21B573;
+    font-weight: 600;
+}
+.books .card img{
+    width: 50px;
+    margin: auto;
+}
+.books .card{
+    padding-top: 40px;
+    border: none;
+    background-color: #F0FFF0;
+    border-radius: 10px;
+}
+.different-card{
+    background-color: #fff !important;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.s-icon img{
+    width: 20px;
+}
+.online-card{
+    border: none;
+    box-shadow: 5px 5px 8px grey;
+}
+.course-man img{
+    width: 100px;
+    height: auto;
+}
+
+.c-details{
+    margin-left: 30px;
+}
+.f-items li{
+    list-style: none;
+}
